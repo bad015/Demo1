@@ -1,3 +1,8 @@
 Something is wrong...
+<<<<<<< HEAD
 Experiment is going on!
 Changing master.
+=======
+Modified in experiment1
+Experiment is going on!
+>>>>>>> experiment1
